@@ -1,0 +1,32 @@
+
+
+ body{
+    background: #30E8BF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ }
+/* form transparent layer property */
+form{
+    margin-top: 200px;
+    margin-left: 550px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    border: 2px solid white;
+    border-radius: 4px;
+    width: 70%;
+    padding: 50px 50px 50px 50px;
+
+}
+#rem
+{
+    color: white;
+}
+
+/* head property */
+h1{
+    color: white;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}

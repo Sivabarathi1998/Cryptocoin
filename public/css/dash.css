@@ -1,0 +1,72 @@
+
+.radio_input
+{
+    width: auto !important;
+}
+
+/*layout page*/
+
+ /* body{
+    background-image: url(../3light.jpg);
+    background-image: url(../white.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+} */
+
+.navbar
+{
+    display: inline !important;
+}
+    ul.navbar-nav li
+    {
+
+        padding: 18px 0px;
+        background-color: rgba(1, 1, 1, 0.1);
+        /* width: 210px; */
+        text-align: center;
+        /* width:50%; */
+    }
+    hr{
+        color:black;
+    }
+
+    h2{
+        /* color: white; */
+        font-size: 70px;
+        margin-left: 500px;
+
+    }
+    .navbar-nav{
+        width: 70%;
+        background: lightslategray;
+        height: 900px;
+    }
+
+.welcome{
+    margin-left: 500px!important;
+}
+
+
+    .inline_class
+    {
+        display: flex;
+    }
+    .nopadd, .navbar
+    {
+        padding: 0px !important;
+    }
+.table{
+    width: 70%!important;
+
+}
+.table-bordered td, .table-bordered th
+{
+    border:1px solid #196352b8;
+
+}
+tbody ,th{
+    text-align: center;
+
+}
